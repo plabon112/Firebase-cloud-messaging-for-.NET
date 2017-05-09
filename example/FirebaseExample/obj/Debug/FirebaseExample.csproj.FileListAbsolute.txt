@@ -1,0 +1,9 @@
+C:\Users\plabo\Desktop\FirebaseExample\FirebaseExample\bin\Debug\FirebaseExample.exe.config
+C:\Users\plabo\Desktop\FirebaseExample\FirebaseExample\bin\Debug\FirebaseExample.exe
+C:\Users\plabo\Desktop\FirebaseExample\FirebaseExample\bin\Debug\FirebaseExample.pdb
+C:\Users\plabo\Desktop\FirebaseExample\FirebaseExample\bin\Debug\FCM.dll
+C:\Users\plabo\Desktop\FirebaseExample\FirebaseExample\bin\Debug\log4net.dll
+C:\Users\plabo\Desktop\FirebaseExample\FirebaseExample\bin\Debug\log4net.xml
+C:\Users\plabo\Desktop\FirebaseExample\FirebaseExample\obj\Debug\FirebaseExample.csprojResolveAssemblyReference.cache
+C:\Users\plabo\Desktop\FirebaseExample\FirebaseExample\obj\Debug\FirebaseExample.exe
+C:\Users\plabo\Desktop\FirebaseExample\FirebaseExample\obj\Debug\FirebaseExample.pdb
